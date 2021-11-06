@@ -1,4 +1,4 @@
-# **Extractive Summarization Using TextRank**#
+# **Extractive Summarization Using TextRank** #
 
 This project show a method for text summarization with extractive approach using text rank algorithm. The dataset we will use in this work will be the Multi News dataset, which consists of a series of news articles from the website newser.com. 
 
